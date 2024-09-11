@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JerseyLeague/static/css/main.e6c13ad2.css",
+    "main.js": "/JerseyLeague/static/js/main.e8af169d.js",
+    "static/js/453.419a5d54.chunk.js": "/JerseyLeague/static/js/453.419a5d54.chunk.js",
+    "index.html": "/JerseyLeague/index.html",
+    "main.e6c13ad2.css.map": "/JerseyLeague/static/css/main.e6c13ad2.css.map",
+    "main.e8af169d.js.map": "/JerseyLeague/static/js/main.e8af169d.js.map",
+    "453.419a5d54.chunk.js.map": "/JerseyLeague/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e8af169d.js"
+  ]
+}
